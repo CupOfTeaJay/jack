@@ -1,0 +1,14 @@
+u32 main(null) {
+    """
+    This is a docstring.
+    """
+    # Initializing variables.
+    iso u32 a{10};
+    iso u32 b{5};
+
+    # Evaluating addition of variables.
+    print(f"Ten plus five is {a + b}.");
+
+    # Exit program.
+    return 0;
+}
