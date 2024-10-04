@@ -1,0 +1,14 @@
+"""
+This is a docstring.
+"""
+u32 main(null) {
+    # Initializing variables.
+    iso u32 a{10};
+    iso u32 b{5};
+
+    # Evaluating addition of variables.
+    print(a + b);
+
+    # Exit program.
+    return 0;
+}

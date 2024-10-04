@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/jack/META"
-  "_build/install/default/lib/jack/dune-package"
-  "_build/install/default/lib/jack/opam"
-]
-bin: [
-  "_build/install/default/bin/jack.exe"
-]
